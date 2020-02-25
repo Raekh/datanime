@@ -1,0 +1,8 @@
+{
+	"env": {
+		"MONGO_USER": "datanime",
+		"MONGO_PASSWORD": "proutPROUT",
+		"MONGO_DB": "datanime_mongo",
+		"MONGO_ACCOUNT": "datanime"
+	}
+}
